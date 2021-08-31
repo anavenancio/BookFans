@@ -1,8 +1,35 @@
 body{
 
-	background-color: beige;
+	background-color: #DEB887;
+	color: #fff;
+	margin-right: 10%;
+	margin-left:10%; 
 	
 }
+
+h1 {
+	text-align: center;
+	border: 3px dashed #fff;
+
+
+
+}
+
+h2 {
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	text-indent: 20%;
+	font-size: 20px 
+}
+figure {
+	text-align: center;
+}
+
 
 
 
